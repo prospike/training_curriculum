@@ -103,7 +103,9 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.4)
-    minitest (5.19.0)
+
+    minitest (5.20.0)
+
     msgpack (1.7.2)
     mysql2 (0.5.5)
     net-imap (0.3.7)
@@ -186,7 +188,9 @@ GEM
     spring-watcher-listen (2.0.1)
       listen (>= 2.7, < 4.0)
       spring (>= 1.2, < 3.0)
-    sprockets (4.2.0)
+
+    sprockets (4.2.1)
+
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
     sprockets-rails (3.4.2)
@@ -202,7 +206,9 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
-    web-console (4.2.0)
+
+    web-console (4.2.1)
+
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
